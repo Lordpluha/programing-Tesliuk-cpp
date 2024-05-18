@@ -1,0 +1,2 @@
+Model: iPhone, Price: 999
+Model: Samsung, Price: 799
